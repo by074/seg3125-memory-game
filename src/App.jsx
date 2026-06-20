@@ -224,13 +224,7 @@ function App() {
           </div>
 
           <div className="player-status">
-            <div className="status-item">
-              <span>⚡</span>
-              <div>
-                <small>BEST TIME</small>
-                <strong>00:51</strong>
-              </div>
-            </div>
+          
 
             <div className="player">
               <span className="avatar">★</span>
